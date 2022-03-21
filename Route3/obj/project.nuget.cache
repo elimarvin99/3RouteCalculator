@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dHrky0DJsJS2fpT3hCOmFvsRN5C1JYq5+T+hUIjCiUFiQ1PrHpJGGanfGw9L3zWoZwQdqFqbL7LVjZWVmuJArg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EliMarvin\\Repos\\Route3\\Route3\\Route3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EliMarvin\\.nuget\\packages\\geocoordinate.netcore\\1.0.0.1\\geocoordinate.netcore.1.0.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
